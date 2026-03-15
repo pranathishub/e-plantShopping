@@ -1,11 +1,17 @@
-# Paradise Nursery
+# e-plantShopping
 
-Paradise Nursery is a React application that allows users to browse
-houseplants and add them to a shopping cart.
+e-plantShopping is an online plant shopping application built using React and Redux.
 
-Features:
-- Browse plants
+This application allows users to browse different houseplants, add them to a cart,
+and manage their shopping cart easily.
+
+## Features
+- View plants by category
 - Add plants to cart
-- View cart
-- Update quantity
-- Remove items
+- Increase or decrease quantity
+- View total price
+
+## Technologies Used
+- React
+- Redux
+- CSS
